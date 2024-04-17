@@ -20,9 +20,11 @@ ALLOWED_ORIGINS=http://localhost:3000
 
 4. Estos son campos que tmbn debes llenar con la información del correo que crees para enviar la confirmación de la creació de cuenta, para conseguirlos te recomiendo ver este video https://www.youtube.com/watch?v=wB1qOExDsYY&t=1088s desde el minuto 4:00.
 
-EMAIL_FROM=
-EMAIL_PASSWORD=
-EMAIL_HOST_PASSWORD=
+    EMAIL_FROM=
+
+    EMAIL_PASSWORD=
+
+    EMAIL_HOST_PASSWORD=
 
 5. Para ejecutar el frontend:
 - abres el ms-tp-frontend
